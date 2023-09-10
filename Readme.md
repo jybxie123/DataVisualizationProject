@@ -1,4 +1,4 @@
-# Data Virtualisation Project
+# Data Visualization Project
 ## Who is the best player?
 
 I want to find out the best basketball player in 2020-2021 nba games with the data of the games. 
